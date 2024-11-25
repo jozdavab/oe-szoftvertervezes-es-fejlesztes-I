@@ -1,5 +1,5 @@
-# oe-szoftvertervezes-es-fejlesztés
-Szoftvertervezés és fejlesztés tantárgy gyakorlatához tartozó kódok.
+# oe-szoftvertervezes-es-fejlesztés I
+Szoftvertervezés és fejlesztés I tantárgy gyakorlatához tartozó kódok.
 
 Aktuális, féléves jelenlét és pontszámok: https://docs.google.com/spreadsheets/d/1VtyVHtJ37pAyAKNOdekhxnaO-2PjA7mBXLYArEr_r5c/
 
